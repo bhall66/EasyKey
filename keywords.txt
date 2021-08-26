@@ -1,0 +1,4 @@
+EasyKey	KEYWORD1
+read	KEYWORD2
+available	KEYWORD2
+getScancode	KEYWORD2
