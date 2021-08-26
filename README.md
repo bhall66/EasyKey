@@ -57,7 +57,7 @@ void loop() {
 
 5. `clear()` - erases the keyboard buffer.
 
-See comments in EasyKey.cpp for documentation of each method.  EasyKey defines many <shift>, <ctrl>, and <alt> key combinations for your use.  See EasyKey.h for a list of the defined key constants.
+See comments in EasyKey.cpp for documentation of each method.  EasyKey defines many shift-key, ctrl-key, and alt-key combinations for your use.  See EasyKey.h for a list of the defined key constants.
 
 ## Credits
 
