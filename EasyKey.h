@@ -62,40 +62,40 @@
 #define PS2_CTRL_Y          25
 #define PS2_CTRL_Z          26
 
-#define PS2_TAB				9     // same as ctrl-i
-#define PS2_ENTER			13    // same as ctrl-m
-#define PS2_ESC				27    
+#define PS2_TAB             9     // same as ctrl-i
+#define PS2_ENTER           13    // same as ctrl-m
+#define PS2_ESC             27    
 
-#define PS2_BACKSPACE		127
-#define PS2_DELETE			128
-#define PS2_INSERT			129
-#define PS2_HOME			130
-#define PS2_END				131
-#define PS2_PAGEUP			132
-#define PS2_PAGEDOWN		133
-#define PS2_UPARROW			134
-#define PS2_LEFTARROW		135
-#define PS2_DOWNARROW		136
-#define PS2_RIGHTARROW		137
-#define PS2_SCROLL			138
+#define PS2_BACKSPACE       127
+#define PS2_DELETE          128
+#define PS2_INSERT          129
+#define PS2_HOME            130
+#define PS2_END             131
+#define PS2_PAGEUP          132
+#define PS2_PAGEDOWN        133
+#define PS2_UPARROW         134
+#define PS2_LEFTARROW       135
+#define PS2_DOWNARROW       136
+#define PS2_RIGHTARROW      137
+#define PS2_SCROLL          138
 #define PS2_LEFTWIN         139
 #define PS2_RIGHTWIN        140
 #define PS2_MENU            141
 #define PS2_CAPSLOCK        142
 #define PS2_NUMLOCK         143
 
-#define PS2_F1				150
-#define PS2_F2				151
-#define PS2_F3				152
-#define PS2_F4				153
-#define PS2_F5				154
-#define PS2_F6				155
-#define PS2_F7				156
-#define PS2_F8				157
-#define PS2_F9				158
-#define PS2_F10				159
-#define PS2_F11			    160
-#define PS2_F12				161
+#define PS2_F1              150
+#define PS2_F2              151
+#define PS2_F3              152
+#define PS2_F4              153
+#define PS2_F5              154
+#define PS2_F6              155
+#define PS2_F7              156
+#define PS2_F8              157
+#define PS2_F9              158
+#define PS2_F10             159
+#define PS2_F11             160
+#define PS2_F12             161
 
 #define PS2_SHIFT_F1        162
 #define PS2_SHIFT_F2        163
